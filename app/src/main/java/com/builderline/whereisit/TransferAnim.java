@@ -1,8 +1,7 @@
-package com.example.whereisit;
+package com.builderline.whereisit;
 
 import android.view.View;
 import android.view.animation.Animation;
-import android.view.animation.TranslateAnimation;
 
 public class TransferAnim implements Animation.AnimationListener {
 

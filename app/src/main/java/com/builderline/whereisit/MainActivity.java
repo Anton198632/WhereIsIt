@@ -1,4 +1,4 @@
-package com.example.whereisit;
+package com.builderline.whereisit;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
@@ -19,10 +19,6 @@ import androidx.lifecycle.LifecycleOwner;
 import android.annotation.SuppressLint;
 import android.content.pm.PackageManager;
 import android.content.res.Configuration;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Matrix;
-import android.graphics.Paint;
 import android.graphics.Rect;
 import android.os.Build;
 import android.os.Bundle;
@@ -36,8 +32,6 @@ import com.google.common.util.concurrent.ListenableFuture;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Executors;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class MainActivity extends AppCompatActivity implements RecognizedHandler {
 

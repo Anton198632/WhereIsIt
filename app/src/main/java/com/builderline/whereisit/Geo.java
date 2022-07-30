@@ -1,4 +1,4 @@
-package com.example.whereisit;
+package com.builderline.whereisit;
 
 public class Geo {
 

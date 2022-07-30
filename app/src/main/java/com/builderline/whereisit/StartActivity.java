@@ -1,4 +1,4 @@
-package com.example.whereisit;
+package com.builderline.whereisit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,7 +12,7 @@ import android.view.animation.TranslateAnimation;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import com.example.whereisit.animation.AnimationHandler;
+import com.builderline.whereisit.animation.AnimationHandler;
 
 public class StartActivity extends AppCompatActivity {
 

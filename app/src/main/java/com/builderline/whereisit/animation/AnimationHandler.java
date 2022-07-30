@@ -1,4 +1,4 @@
-package com.example.whereisit.animation;
+package com.builderline.whereisit.animation;
 
 import android.view.animation.Animation;
 
