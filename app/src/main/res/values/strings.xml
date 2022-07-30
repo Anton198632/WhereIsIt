@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Where is it?</string>
+    <string name="start">START</string>
+    <string name="PERMISSION_NO_GRANTED">Permission is not set by the user</string>
+    <string name="description">Point your smartphone at the inscription with the coordinates for recognition. And you will see this place on the map.</string>
+
+</resources>
